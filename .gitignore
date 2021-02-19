@@ -1,3 +1,15 @@
+# My Excpet
+voice/
+test/
+save_draft/
+logs_app/
+*.wav
+*.mp3
+myenv/
+.idea/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
